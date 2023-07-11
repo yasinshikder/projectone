@@ -126,7 +126,6 @@ padding: 15px;
 }
 .first-description-offer{
     padding-left:175px;
-
     width: 50%;
     color:ghostwhite;
     margin-top: 10px;
@@ -143,7 +142,7 @@ padding: 15px;
 }
 .arrange-img-one-insta{
     width: 300px;
-height: 250px;
+    height: 250px;
     background-color: rgb(246, 140, 140);
   
    
@@ -151,24 +150,24 @@ height: 250px;
 .arrange-img-two-insta{
     width: 300px;
     height: 250px;
-        background-color: rgb(177, 246, 86);
+    background-color: rgb(177, 246, 86);
 
 }
 
 .arrange-img-three-insta{
     width: 300px;
     height: 250px;
-        background-color: rgb(177, 246, 86);
+    background-color: rgb(177, 246, 86);
 
 }
 .arrange-img-four-insta{
     width: 300px;
     height: 250px;
-        background-color: rgb(177, 246, 86);
-margin-bottom: 20px;
+    background-color: rgb(177, 246, 86);
+
 }
 .last-banner{
- margin-top: 30px;  
+margin-top: 30px;  
 background-image: url(./flower/Rectangle\ 9.png);
 width: 80%;
 margin: auto;
