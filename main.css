@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first{
+    margin-left: 30px;
+    background-color:rgb(249, 123, 121);
+    display:flex;
+    /* justify-content: space-around; */
+  align-items:center;
+  width: 100%;
+  margin:auto;
+  padding-left:50px;
+  padding-bottom: 20px;
+  gap: 10px;
+ 
+}
+.left-side{
+    margin-left: 50px;
+    padding-left: 99px;
+}
+.right-side{
+    padding-right: 60px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.heading-one{
+    padding-top: 40px;
+    font-size: 40px;
+    font-weight: bold;
+    padding-left: 50px;
+    
+}
+.first-description{
+    padding-left: 50px;
+    width: 50%;
+    color:ghostwhite;
+    margin-top: 10px;
+}
+.btn{
+    margin-left: 40px;
+    border-radius: 8px;
+    padding-left: 50px;
+    margin-top: 10px;
+    color:white;
+    background-color: red;
+    border: none;
+    padding: 12px 20px;
+
+
+}
+.first-img{
+    padding-right: 70px;
+width: 55%;
+margin-bottom: -40px;
+}
+.second-part{
+    background-color: white;
+    
+}
+.second-heading{
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+.three-img{
+    width:80%;
+    align-items: center;
+    margin: auto;
+    display:flex;
+    justify-content: space-around;
+    gap: 170px;
+  
+
+  
+}
+
+.arrange-img-one{
+  width: 300px;
+height: 270px;
+padding: 15px;
+    background-color: rgb(246, 140, 140);
+    border-top-left-radius:150px;
+    border-top-right-radius: 150px;
+     margin-right: -95px; 
+   
+}
+
+.arrange-img-two{
+    width: 300px;
+    height: 270px;
+    padding: 15px;
+    background-color:rgb(171, 225, 247);
+    border-top-left-radius:150px;
+    border-top-right-radius: 150px;
+    
+}
+.arrange-img-three{
+    padding: 15px;
+    width: 300px;
+    height: 270px;
+    background-color:rgb(219, 217, 168);
+    border-top-left-radius:150px;
+    border-top-right-radius: 150px;
+
+}
+.img-heading{
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.primary{
+    color:red;
+}
+.offer{
+    text-align: center;
+}
+.first-description-offer{
+    padding-left:175px;
+
+    width: 50%;
+    color:ghostwhite;
+    margin-top: 10px;
+
+}
+.insta-four-img{
+ display:flex;
+ justify-content: space-around;
+ width:80%;
+ margin: auto;
+ gap: 15px;
+ align-items: center;
+      
+}
+.arrange-img-one-insta{
+    width: 300px;
+height: 250px;
+    background-color: rgb(246, 140, 140);
+  
+   
+}
+.arrange-img-two-insta{
+    width: 300px;
+    height: 250px;
+        background-color: rgb(177, 246, 86);
+
+}
+
+.arrange-img-three-insta{
+    width: 300px;
+    height: 250px;
+        background-color: rgb(177, 246, 86);
+
+}
+.arrange-img-four-insta{
+    width: 300px;
+    height: 250px;
+        background-color: rgb(177, 246, 86);
+margin-bottom: 20px;
+}
+.last-banner{
+ margin-top: 30px;  
+background-image: url(./flower/Rectangle\ 9.png);
+width: 80%;
+margin: auto;
+text-align: center;
+}
+.banner-heading{
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+input[type=text] {
+    width: 40%;
+    box-sizing: border-box;
+    border:none;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: white; 
+    padding: 12px 20px 12px 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+.info{
+    width: 100%;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+.info-heading{
+    margin-bottom: 50px;
+    font-size: 55px;
+}
+.info-description{
+    margin-bottom: 20px;
+}
+.extrapart{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin:auto;
+    background-color: skyblue;
+    padding: 10px;
+    align-items: center;
+}
+.img-extrapart{
+    width: 200px;
+    height: 150px;
+}
+.extrapart-left-side{
+    border-right: 5px solid pink;
+    padding-right:15px;
+    color: white;
+    text-align: center;
+    margin-left: 10px;
+
+}
+.extrapart-right-side{
+  padding-left:15px;
+
+    color: white;
+    text-align: center;
+}
+.extra-heading{
+    background-color: rgba(13, 4, 4, 0.786);
+    border-radius: 10px;
+    padding-left: 200px;
+
+    
+}
